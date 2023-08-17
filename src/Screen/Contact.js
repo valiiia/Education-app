@@ -35,7 +35,7 @@ import { StyleSheet, Text, View, TextInput, TouchableOpacity, Alert } from "reac
         <Text style={styles.mainHeader}>Level up your knowledge </Text>
   
         <Text style={styles.description}>
-          You can reach us anytime via thapa@vinod.com
+          You can reach us anytime via Valia1@.com
         </Text>
   
         <View style={styles.inputContainer}>
